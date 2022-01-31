@@ -3,7 +3,7 @@
 
 [![NPM Version][npm-image]][npm-url]
 
-*Necessário [XAMPP](https://www.apachefriends.org/download.html) ou [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) server, [Composer](https://getcomposer.org/download/) e [Git](https://git-scm.com/downloads)
+<i> * Necessário [XAMPP](https://www.apachefriends.org/download.html) ou [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) server, [Composer](https://getcomposer.org/download/) e [Git](https://git-scm.com/downloads) </i>
 
 App feito em
 <h3>Laravel</h3>
